@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|d:\\mycrosoft\\duan\\quanlynhansu\\quanlynhansu\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|d:\\mycrosoft\\duan\\quanlynhansu\\quanlynhansu\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|d:\\mycrosoft\\duan\\quanlynhansu\\quanlynhansu\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmhopdongld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmhopdongld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmquanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmquanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmquanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmquanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\frmhopdongld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\frmhopdongld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|D:\\Mycrosoft\\DuAn\\Quanlynhansu\\quanlynhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01C9F8A-810D-47A0-A11E-834C56F1CA4A}|Quanlynhansu\\Quanlynhansu.csproj|solutionrelative:quanlynhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmtimkiem.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmtimkiem.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\frmtimkiem.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmtimkiem.cs",
+              "RelativeToolTip": "Quanlynhansu\\frmtimkiem.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:54:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmtimkiem.cs [Design]",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmtimkiem.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\frmtimkiem.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmtimkiem.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\frmtimkiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:54:02.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\Program.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Program.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\Program.cs",
+              "RelativeToolTip": "Quanlynhansu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:06:19.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHopdongLD.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmHopdongLD.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\FrmHopdongLD.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmHopdongLD.cs",
+              "RelativeToolTip": "Quanlynhansu\\FrmHopdongLD.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:38:48.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTinhluong.cs [Design]",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmTinhluong.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\frmTinhluong.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmTinhluong.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\frmTinhluong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:48:13.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTinhluong.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmTinhluong.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\frmTinhluong.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\frmTinhluong.cs",
+              "RelativeToolTip": "Quanlynhansu\\frmTinhluong.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAApwGQBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:49:07.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thongtinnhanvien.cs [Design]",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\Thongtinnhanvien.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Thongtinnhanvien.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\Thongtinnhanvien.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\Thongtinnhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:55:42.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thongtinnhanvien.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\Thongtinnhanvien.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\Thongtinnhanvien.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\Thongtinnhanvien.cs",
+              "RelativeToolTip": "Quanlynhansu\\Thongtinnhanvien.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAUwBEBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:55:43.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmDangnhap.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\FrmDangnhap.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmDangnhap.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\FrmDangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:51:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDangnhap.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmDangnhap.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\FrmDangnhap.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmDangnhap.cs",
+              "RelativeToolTip": "Quanlynhansu\\FrmDangnhap.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwGAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:51:47.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmQuanlynv.cs [Design]",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmQuanlynv.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\FrmQuanlynv.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmQuanlynv.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\FrmQuanlynv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:53:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmQuanlynv.cs",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmQuanlynv.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\FrmQuanlynv.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmQuanlynv.cs",
+              "RelativeToolTip": "Quanlynhansu\\FrmQuanlynv.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAD4v70AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:53:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmHopdongLD.cs [Design]",
+              "DocumentMoniker": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmHopdongLD.cs",
+              "RelativeDocumentMoniker": "Quanlynhansu\\FrmHopdongLD.cs",
+              "ToolTip": "D:\\Mycrosoft\\DuAn\\Quanlynhansu\\Quanlynhansu\\FrmHopdongLD.cs [Design]",
+              "RelativeToolTip": "Quanlynhansu\\FrmHopdongLD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:38:46.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
